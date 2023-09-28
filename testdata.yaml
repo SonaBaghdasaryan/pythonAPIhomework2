@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru
+driver_path: chromedriver.exe
+sleep_time: 5
+login: Kondrat
+passwd: 7901dbec72
+title: Animals
+description: The life of wild animals
+content: Wild animals are objects of the animal world, which include animals whose natural habitat is wild nature
